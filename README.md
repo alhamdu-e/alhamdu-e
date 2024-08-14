@@ -9,8 +9,11 @@
 
 ## Skills
 - 👨‍💻 **HTML**
-- 🎨 **CSS**: 
+- 🎨 **CSS**:
+- 🎨 **Tailwind CSS**:
 - ⚛️ **React**
 - 🚀 **Node.js**
+- 🚀 **Express.js**
 - 🐬 **MySQL**
+- 🐬 **MongoDb**
 - 🌐 **REST API*
